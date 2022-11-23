@@ -1,18 +1,15 @@
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 
 [RequireComponent(typeof(StateMachine))]
 public class GameController : MonoBehaviour {
-    [SerializeField, Min(0)] private int anxiety;
+	[SerializeField, Min(0f)] private float trainSpeed;
+	[SerializeField, Min(0)] private int anxiety;
 
-    private StateMachine state;
+	private StateMachine state;
 
-    protected void Awake() {
-        state = GetComponent<StateMachine>();
-    }
+	public float TrainSpeed => trainSpeed;
 
-    protected void Update() {
-        
-    }
+	protected void Awake() {
+		state = GetComponent<StateMachine>();
+	}
 }
