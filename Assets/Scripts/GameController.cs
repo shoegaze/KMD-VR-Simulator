@@ -1,4 +1,4 @@
-using System;
+﻿using System;
 using UnityEngine;
 
 [RequireComponent(typeof(StateMachine))]
@@ -18,7 +18,7 @@ public class GameController : MonoBehaviour {
 		// TODO: Create behaviors for each method?
 		switch (state.State) {
 			case GameState.EnterTheTrain:
-				UpdateEnterTheTrain();
+				//UpdateEnterTheTrain();
 				return;
 			
 			case GameState.SitDown:

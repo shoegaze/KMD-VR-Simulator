@@ -141,6 +141,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   buildings:
   - {fileID: 4061958825834181439, guid: ed8b3cdf33584a841965726f329fb14a, type: 3}
+  - {fileID: 4061958825834181439, guid: 183786c4efb399341a19c0d28769fc31, type: 3}
 --- !u!1 &8340421508548281786
 GameObject:
   m_ObjectHideFlags: 0
@@ -187,6 +188,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   buildings:
   - {fileID: 4061958825834181439, guid: ed8b3cdf33584a841965726f329fb14a, type: 3}
+  - {fileID: 4061958825834181439, guid: 183786c4efb399341a19c0d28769fc31, type: 3}
 --- !u!1 &9112289941957243476
 GameObject:
   m_ObjectHideFlags: 0

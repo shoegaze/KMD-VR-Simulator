@@ -21,8 +21,6 @@ namespace Buildings {
 		
 			if (CanSpawnNext()) {
 				SpawnNext();
-				
-				Debug.Log("Spawned building");
 			}
 		}
 
