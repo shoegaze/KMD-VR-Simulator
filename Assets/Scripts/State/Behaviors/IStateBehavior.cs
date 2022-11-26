@@ -7,6 +7,6 @@ namespace State.Behaviors {
 		// bool CanTransition(GameState to);
 		void OnBeforeTransition(GameState from);
 		void OnAfterTransition(GameState from);
-		void OnUpdate(GameController game);
+		void OnUpdate(GameController game, StateMachine stateMachine);
 	}
 }

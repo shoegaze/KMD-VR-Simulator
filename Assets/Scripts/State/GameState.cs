@@ -1,5 +1,6 @@
 ﻿namespace State {
 	public enum GameState {
+		None,
 		EnterTheTrain,
 		SitDown,
 		ManSitsDown,

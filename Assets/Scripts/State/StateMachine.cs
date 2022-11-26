@@ -4,6 +4,7 @@ using State.Behaviors;
 using UnityEngine;
 
 namespace State {
+	[RequireComponent(typeof(BehaviorNone))]
 	[RequireComponent(
 			typeof(BehaviorEnterTheTrain), 
 			typeof(BehaviorSitDown), 
@@ -16,17 +17,17 @@ namespace State {
 			typeof(BehaviorIgnoreHands), 
 			typeof(BehaviorTimeUp), 
 			typeof(BehaviorGameOver))]
-	[RequireComponent(
-			typeof(BehaviorWin))
-	]
+	[RequireComponent(typeof(BehaviorWin))]
 	public class StateMachine : MonoBehaviour {
-		[SerializeField] private GameState state = GameState.EnterTheTrain;
+		[SerializeField] private GameState state = GameState.None;
 
 		public GameState State => state;
 
 		private readonly Dictionary<GameState, IStateBehavior> behaviors = new();
+		private GameController game;
 
 		protected void Awake() {
+			behaviors[GameState.None]           = GetComponent<BehaviorNone>();
 			behaviors[GameState.EnterTheTrain]  = GetComponent<BehaviorEnterTheTrain>();
 			behaviors[GameState.SitDown]        = GetComponent<BehaviorSitDown>();
 			behaviors[GameState.ManSitsDown]    = GetComponent<BehaviorManSitsDown>();
@@ -37,6 +38,14 @@ namespace State {
 			behaviors[GameState.TimeUp]         = GetComponent<BehaviorTimeUp>();
 			behaviors[GameState.GameOver]       = GetComponent<BehaviorGameOver>();
 			behaviors[GameState.Win]            = GetComponent<BehaviorWin>();
+		}
+
+		protected void Start() {
+			game = GameObject.FindWithTag("GameController").GetComponent<GameController>();
+		}
+
+		protected void Update() {
+			behaviors[State].OnUpdate(game, this);
 		}
 
 		public void Transition(GameState to) {
@@ -51,6 +60,7 @@ namespace State {
 
 		private bool CanTransition(GameState to) {
 			return (state, to) switch {
+				(GameState.None,           GameState.EnterTheTrain)  => true,
 				(GameState.EnterTheTrain,  GameState.SitDown)        => true,
 				(GameState.SitDown,        GameState.ManSitsDown)    => true,
 				(GameState.ManSitsDown,    GameState.GameOver)       => true,

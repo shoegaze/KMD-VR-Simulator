@@ -1825,10 +1825,6 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 3714658753537335867, guid: 9026881aeff454d9fbdf358007d9eff5, type: 3}
-      propertyPath: trainSpeed
-      value: 100
-      objectReference: {fileID: 0}
     - target: {fileID: 5050716546279249937, guid: 9026881aeff454d9fbdf358007d9eff5, type: 3}
       propertyPath: m_Name
       value: Game Controller

@@ -12,7 +12,7 @@ namespace State.Behaviors {
 			Debug.Log($"after -> {from}");
 		}
 		
-		public override void OnUpdate(GameController game) {
+		public override void OnUpdate(GameController game, StateMachine stateMachine) {
 			Debug.Log($"update: {State}");
 		}
 	}

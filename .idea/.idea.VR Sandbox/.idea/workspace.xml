@@ -2,34 +2,28 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d24a4f18-0a8e-4903-8203-fcf1f9ee219f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/State/Behaviors/BehaviorGameOver.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/State/Behaviors/BehaviorGameOver.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/State/Behaviors/BehaviorIgnoreHands.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/State/Behaviors/BehaviorIgnoreHands.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/State/Behaviors/BehaviorLookAtHands.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/State/Behaviors/BehaviorLookAtHands.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/State/Behaviors/BehaviorManMovesToo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/State/Behaviors/BehaviorManMovesToo.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/State/Behaviors/BehaviorManSitDown.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/State/Behaviors/BehaviorManSitDown.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/State/Behaviors/BehaviorManStandsClose.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/State/Behaviors/BehaviorManStandsClose.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/State/Behaviors/BehaviorSitsDown.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/State/Behaviors/BehaviorSitsDown.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/State/Behaviors/BehaviorTimeUp.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/State/Behaviors/BehaviorTimeUp.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/State/Behaviors/BehaviorWin.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/State/Behaviors/BehaviorWin.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/State/Behaviors/StateBehavior.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/State/Behaviors/StateBehavior.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/State/Behaviors/BehaviorNone.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/State/Behaviors/BehaviorNone.cs.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.VR Sandbox/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.VR Sandbox/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Exterior.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Exterior.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Game Controller.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Game Controller.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Train.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Train.unity" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scripts/DebugUI/DebugFrame.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/DebugUI/DebugFrame.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scripts/GameController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/GameController.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/GameState.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/GameState.cs.meta" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scripts/State/Behaviors/BehaviorEnterTheTrain.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/State/Behaviors/BehaviorEnterTheTrain.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/StateMachine.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/State/Behaviors/BehaviorGameOver.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/State/Behaviors/BehaviorGameOver.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/State/Behaviors/BehaviorIgnoreHands.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/State/Behaviors/BehaviorIgnoreHands.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/State/Behaviors/BehaviorLookAtHands.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/State/Behaviors/BehaviorLookAtHands.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/State/Behaviors/BehaviorManMovesToo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/State/Behaviors/BehaviorManMovesToo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/State/Behaviors/BehaviorManSitDown.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/State/Behaviors/BehaviorManSitDown.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/State/Behaviors/BehaviorManStandsClose.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/State/Behaviors/BehaviorManStandsClose.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/State/Behaviors/BehaviorSitsDown.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/State/Behaviors/BehaviorSitsDown.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/State/Behaviors/BehaviorTimeUp.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/State/Behaviors/BehaviorTimeUp.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/State/Behaviors/BehaviorWin.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/State/Behaviors/BehaviorWin.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/State/Behaviors/IStateBehavior.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/State/Behaviors/IStateBehavior.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/State/Behaviors/StateBehavior.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/State/Behaviors/StateBehavior.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/State/GameState.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/State/GameState.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/State/StateMachine.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/State/StateMachine.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

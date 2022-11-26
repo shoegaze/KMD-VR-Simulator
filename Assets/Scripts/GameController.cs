@@ -1,5 +1,4 @@
-﻿using System;
-using State;
+﻿using State;
 using UnityEngine;
 
 [RequireComponent(typeof(StateMachine))]
