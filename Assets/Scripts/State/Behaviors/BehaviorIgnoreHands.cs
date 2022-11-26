@@ -1,8 +1,8 @@
 ﻿using UnityEngine;
 
 namespace State.Behaviors {
-	public class BehaviorEnterTheTrain : StateBehavior {
-		public override GameState State => GameState.EnterTheTrain;
+	public class BehaviorIgnoreHands : StateBehavior {
+		public override GameState State => GameState.IgnoreHands;
 		
 		public override void OnBeforeTransition(GameState from) {
 			Debug.Log($"before -> {from}");

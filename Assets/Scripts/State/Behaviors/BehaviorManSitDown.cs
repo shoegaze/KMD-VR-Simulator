@@ -1,9 +1,9 @@
 ﻿using UnityEngine;
 
 namespace State.Behaviors {
-	public class BehaviorEnterTheTrain : StateBehavior {
-		public override GameState State => GameState.EnterTheTrain;
-		
+	public class BehaviorManSitsDown : StateBehavior {
+		public override GameState State => GameState.ManSitsDown;
+        		
 		public override void OnBeforeTransition(GameState from) {
 			Debug.Log($"before -> {from}");
 		}
