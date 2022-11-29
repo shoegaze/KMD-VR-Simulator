@@ -53,9 +53,10 @@ namespace State {
 				throw new ArgumentException();
 			}
 
-			behaviors[to].OnBeforeTransition(state);
+			var from = state;
+			behaviors[to].OnBeforeTransition(from);
 			state = to;
-			behaviors[to].OnAfterTransition(state);
+			behaviors[from].OnAfterTransition(to);
 		}
 
 		private bool CanTransition(GameState to) {
