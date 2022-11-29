@@ -9,6 +9,7 @@ public class GameController : MonoBehaviour {
 	private StateMachine state;
 
 	public float TrainSpeed => trainSpeed;
+	public int Anxiety => anxiety;
 
 	protected void Awake() {
 		state = GetComponent<StateMachine>();
