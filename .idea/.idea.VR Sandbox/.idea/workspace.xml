@@ -2,28 +2,287 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d24a4f18-0a8e-4903-8203-fcf1f9ee219f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/State/Behaviors/BehaviorNone.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/State/Behaviors/BehaviorNone.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Audio.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Audio/aphex twin x ariana grande mix.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Audio/aphex twin x ariana grande mix.mp3.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Audio/transportation-london-underground-train-idle-at-station-people.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Audio/transportation-london-underground-train-idle-at-station-people.mp3.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Customizable Skybox.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Customizable Skybox/Customizable Skybox Documentaion.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Customizable Skybox/Customizable Skybox Documentaion.pdf.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Customizable Skybox/Materials.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Customizable Skybox/Materials/Clouds.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Customizable Skybox/Materials/Clouds.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Customizable Skybox/Materials/Material.003.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Customizable Skybox/Materials/Material.003.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Customizable Skybox/Materials/No Name.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Customizable Skybox/Materials/No Name.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Customizable Skybox/Materials/dark trunk.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Customizable Skybox/Materials/dark trunk.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Customizable Skybox/Materials/darken leafs.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Customizable Skybox/Materials/darken leafs.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Customizable Skybox/Materials/earth.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Customizable Skybox/Materials/earth.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Customizable Skybox/Materials/green tree.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Customizable Skybox/Materials/green tree.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Customizable Skybox/Materials/pine tree green.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Customizable Skybox/Materials/pine tree green.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Customizable Skybox/Materials/trunk.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Customizable Skybox/Materials/trunk.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Customizable Skybox/Model.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Customizable Skybox/Model/Low Poly Island.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Customizable Skybox/Model/Low Poly Island.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Customizable Skybox/Model/Materials.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Customizable Skybox/Model/Materials/Material.003.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Customizable Skybox/Model/Materials/Material.003.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Customizable Skybox/Model/Materials/No Name.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Customizable Skybox/Model/Materials/No Name.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Customizable Skybox/Model/Materials/dark trunk.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Customizable Skybox/Model/Materials/dark trunk.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Customizable Skybox/Model/Materials/darken leafs.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Customizable Skybox/Model/Materials/darken leafs.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Customizable Skybox/Model/Materials/earth.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Customizable Skybox/Model/Materials/earth.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Customizable Skybox/Model/Materials/green tree.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Customizable Skybox/Model/Materials/green tree.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Customizable Skybox/Model/Materials/pine brown.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Customizable Skybox/Model/Materials/pine brown.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Customizable Skybox/Model/Materials/pine tree green.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Customizable Skybox/Model/Materials/pine tree green.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Customizable Skybox/Model/Materials/trunk.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Customizable Skybox/Model/Materials/trunk.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Customizable Skybox/Scenes.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Customizable Skybox/Scenes/DemoScene.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Customizable Skybox/Scenes/DemoScene.unity.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Customizable Skybox/Stylized Sky.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Customizable Skybox/Stylized Sky/Materials.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Customizable Skybox/Stylized Sky/Materials/Day1.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Customizable Skybox/Stylized Sky/Materials/Day1.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Customizable Skybox/Stylized Sky/Materials/Day2.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Customizable Skybox/Stylized Sky/Materials/Day2.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Customizable Skybox/Stylized Sky/Materials/Day3.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Customizable Skybox/Stylized Sky/Materials/Day3.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Customizable Skybox/Stylized Sky/Materials/Day4.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Customizable Skybox/Stylized Sky/Materials/Day4.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Customizable Skybox/Stylized Sky/Materials/Day5.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Customizable Skybox/Stylized Sky/Materials/Day5.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Customizable Skybox/Stylized Sky/Materials/Day6.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Customizable Skybox/Stylized Sky/Materials/Day6.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Customizable Skybox/Stylized Sky/Materials/Day7.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Customizable Skybox/Stylized Sky/Materials/Day7.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Customizable Skybox/Stylized Sky/Materials/Morning1.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Customizable Skybox/Stylized Sky/Materials/Morning1.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Customizable Skybox/Stylized Sky/Materials/Morning2.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Customizable Skybox/Stylized Sky/Materials/Morning2.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Customizable Skybox/Stylized Sky/Materials/Morning3.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Customizable Skybox/Stylized Sky/Materials/Morning3.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Customizable Skybox/Stylized Sky/Materials/Morning4.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Customizable Skybox/Stylized Sky/Materials/Morning4.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Customizable Skybox/Stylized Sky/Materials/Night1.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Customizable Skybox/Stylized Sky/Materials/Night1.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Customizable Skybox/Stylized Sky/Materials/Night2.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Customizable Skybox/Stylized Sky/Materials/Night2.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Customizable Skybox/Stylized Sky/Materials/Night3.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Customizable Skybox/Stylized Sky/Materials/Night3.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Customizable Skybox/Stylized Sky/Materials/Night4.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Customizable Skybox/Stylized Sky/Materials/Night4.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Customizable Skybox/Stylized Sky/Materials/Sunset1.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Customizable Skybox/Stylized Sky/Materials/Sunset1.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Customizable Skybox/Stylized Sky/Materials/Sunset2.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Customizable Skybox/Stylized Sky/Materials/Sunset2.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Customizable Skybox/Stylized Sky/Materials/Sunset3.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Customizable Skybox/Stylized Sky/Materials/Sunset3.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Customizable Skybox/Stylized Sky/Materials/Sunset4.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Customizable Skybox/Stylized Sky/Materials/Sunset4.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Customizable Skybox/Stylized Sky/Materials/Sunset5.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Customizable Skybox/Stylized Sky/Materials/Sunset5.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Customizable Skybox/Stylized Sky/Shaders.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Customizable Skybox/Stylized Sky/Shaders/Stylized Sky.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Customizable Skybox/Stylized Sky/Shaders/Stylized Sky.shader.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Models/characters.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Models/characters/NPC.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Models/characters/NPC/NPCm_Sitting Idle.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Models/characters/NPC/NPCm_Sitting Idle.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Models/characters/NPC/NPCm_Standing Idle.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Models/characters/NPC/NPCm_Standing Idle.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Models/characters/NPC/NPCm_Thoughtful Head Shake.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Models/characters/NPC/NPCm_Thoughtful Head Shake.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Models/characters/NPC/NPCw_Sitting Talking.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Models/characters/NPC/NPCw_Sitting Talking.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Models/characters/The Weird Man.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Models/characters/The Weird Man/Man_Sitting Laughing.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Models/characters/The Weird Man/Man_Sitting Laughing.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Models/characters/The Weird Man/Man_Walk Strafe Left.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Models/characters/The Weird Man/Man_Walk Strafe Left.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Models/characters/The Weird Man/Man_sit to stand.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Models/characters/The Weird Man/Man_sit to stand.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Models/characters/The Weird Man/Man＿Stand To Sit.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Models/characters/The Weird Man/Man＿Stand To Sit.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Models/characters/The Weird Man/man_touch woman.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Models/characters/The Weird Man/man_touch woman.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Models/characters/The Woman.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Models/characters/The Woman/Woman_Sitting.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Models/characters/The Woman/Woman_Sitting.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Models/characters/The Woman/fearful-woman.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Models/characters/The Woman/fearful-woman/source.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Models/characters/The Woman/fearful-woman/source/fearful woman.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Models/characters/The Woman/fearful-woman/source/fearful woman.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Models/characters/The Woman/fearful-woman/textures.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Models/characters/The Woman/fearful-woman/textures/woman_ao.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Models/characters/The Woman/fearful-woman/textures/woman_ao.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Models/characters/The Woman/fearful-woman/textures/woman_final_bake.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Models/characters/The Woman/fearful-woman/textures/woman_final_bake.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Models/characters/The Woman/fearful-woman/textures/woman_normal.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Models/characters/The Woman/fearful-woman/textures/woman_normal.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Models/characters/The Woman/woman_Catwalk Walk Forward Arc 90R.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Models/characters/The Woman/woman_Catwalk Walk Forward Arc 90R.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Models/characters/The Woman/woman_Sit To Stand.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Models/characters/The Woman/woman_Sit To Stand.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Models/characters/The Woman/woman_Stand To Sit.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Models/characters/The Woman/woman_Stand To Sit.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Models/characters/The Woman/woman_Start Walking.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Models/characters/The Woman/woman_Start Walking.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Models/characters/The Woman/woman_Walking.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Models/characters/The Woman/woman_Walking.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Models/train.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Models/train/interior.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Models/train/interior.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PSXShaderKit.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PSXShaderKit/Demo.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PSXShaderKit/Demo/Assets.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PSXShaderKit/Demo/Assets/HouseModel.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PSXShaderKit/Demo/Assets/HouseModel.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PSXShaderKit/Demo/Assets/materials.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PSXShaderKit/Demo/Assets/materials/Black.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PSXShaderKit/Demo/Assets/materials/Black.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PSXShaderKit/Demo/Assets/materials/Black_Window.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PSXShaderKit/Demo/Assets/materials/Black_Window.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PSXShaderKit/Demo/Assets/materials/Cabet_Table.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PSXShaderKit/Demo/Assets/materials/Cabet_Table.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PSXShaderKit/Demo/Assets/materials/Chair.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PSXShaderKit/Demo/Assets/materials/Chair.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PSXShaderKit/Demo/Assets/materials/LivingRoom.Alt.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PSXShaderKit/Demo/Assets/materials/LivingRoom.Alt.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PSXShaderKit/Demo/Assets/materials/LivingRoom.TableStuff.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PSXShaderKit/Demo/Assets/materials/LivingRoom.TableStuff.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PSXShaderKit/Demo/Assets/materials/LivingRoom.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PSXShaderKit/Demo/Assets/materials/LivingRoom.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PSXShaderKit/Demo/Assets/materials/LivingRoomLamp.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PSXShaderKit/Demo/Assets/materials/LivingRoomLamp.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PSXShaderKit/Demo/Assets/materials/OldLady.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PSXShaderKit/Demo/Assets/materials/OldLady.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PSXShaderKit/Demo/Assets/materials/Table Stuff.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PSXShaderKit/Demo/Assets/materials/Table Stuff.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PSXShaderKit/Demo/Assets/materials/WallExtras.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PSXShaderKit/Demo/Assets/materials/WallExtras.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PSXShaderKit/Demo/Assets/materials/WallsRoofFloorExtras.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PSXShaderKit/Demo/Assets/materials/WallsRoofFloorExtras.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PSXShaderKit/Demo/Assets/materials/white.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PSXShaderKit/Demo/Assets/materials/white.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PSXShaderKit/Demo/Assets/models.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PSXShaderKit/Demo/Assets/models/Phasmaphobia_Semi.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PSXShaderKit/Demo/Assets/models/Phasmaphobia_Semi.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PSXShaderKit/Demo/Assets/textures.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PSXShaderKit/Demo/Assets/textures/Chair.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PSXShaderKit/Demo/Assets/textures/Chair.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PSXShaderKit/Demo/Assets/textures/Kitchen_Cube.cubemap" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PSXShaderKit/Demo/Assets/textures/Kitchen_Cube.cubemap.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PSXShaderKit/Demo/Assets/textures/LivingRoom.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PSXShaderKit/Demo/Assets/textures/LivingRoom.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PSXShaderKit/Demo/Assets/textures/LivingRoom_Reflection.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PSXShaderKit/Demo/Assets/textures/LivingRoom_Reflection.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PSXShaderKit/Demo/Assets/textures/OldLady_Texture.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PSXShaderKit/Demo/Assets/textures/OldLady_Texture.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PSXShaderKit/Demo/Assets/textures/TableStuff.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PSXShaderKit/Demo/Assets/textures/TableStuff.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PSXShaderKit/Demo/Assets/textures/Table_Cabet_tex.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PSXShaderKit/Demo/Assets/textures/Table_Cabet_tex.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PSXShaderKit/Demo/Assets/textures/WallsFloorRoofExtras.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PSXShaderKit/Demo/Assets/textures/WallsFloorRoofExtras.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PSXShaderKit/Demo/Assets/textures/checkerboard.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PSXShaderKit/Demo/Assets/textures/checkerboard.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PSXShaderKit/Demo/Demo Scene.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PSXShaderKit/Demo/Demo Scene.unity.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PSXShaderKit/Demo/PSXExample_CameraMovement.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PSXShaderKit/Demo/PSXExample_CameraMovement.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PSXShaderKit/Demo/SpookyOrbFloat.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PSXShaderKit/Demo/SpookyOrbFloat.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PSXShaderKit/README.rtf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PSXShaderKit/README.rtf.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PSXShaderKit/Scripts.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PSXShaderKit/Scripts/PSXPostProcessEffect.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PSXShaderKit/Scripts/PSXPostProcessEffect.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PSXShaderKit/Scripts/PSXShaderManager.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PSXShaderKit/Scripts/PSXShaderManager.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PSXShaderKit/Shaders.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PSXShaderKit/Shaders/ImageEffects.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PSXShaderKit/Shaders/ImageEffects/PSX-Interlacing.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PSXShaderKit/Shaders/ImageEffects/PSX-Interlacing.shader.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PSXShaderKit/Shaders/ImageEffects/PSX-PostProcess-Accurate.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PSXShaderKit/Shaders/ImageEffects/PSX-PostProcess-Accurate.shader.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PSXShaderKit/Shaders/ImageEffects/PSX-PostProcess.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PSXShaderKit/Shaders/ImageEffects/PSX-PostProcess.shader.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PSXShaderKit/Shaders/PSX-Lite-Unlit.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PSXShaderKit/Shaders/PSX-Lite-Unlit.shader.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PSXShaderKit/Shaders/PSX-Lite-UnlitTransparent.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PSXShaderKit/Shaders/PSX-Lite-UnlitTransparent.shader.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PSXShaderKit/Shaders/PSX-Lite-UnlitTransparentCutout.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PSXShaderKit/Shaders/PSX-Lite-UnlitTransparentCutout.shader.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PSXShaderKit/Shaders/PSX-Lite-VertexLit.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PSXShaderKit/Shaders/PSX-Lite-VertexLit.shader.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PSXShaderKit/Shaders/PSX-Lite-VertexLitTransparent.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PSXShaderKit/Shaders/PSX-Lite-VertexLitTransparent.shader.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PSXShaderKit/Shaders/PSX-Lite-VertexLitTransparentCutout.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PSXShaderKit/Shaders/PSX-Lite-VertexLitTransparentCutout.shader.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PSXShaderKit/Shaders/PSX-ShaderSrc-Lite.cginc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PSXShaderKit/Shaders/PSX-ShaderSrc-Lite.cginc.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PSXShaderKit/Shaders/PSX-ShaderSrc.cginc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PSXShaderKit/Shaders/PSX-ShaderSrc.cginc.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PSXShaderKit/Shaders/PSX-Unlit.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PSXShaderKit/Shaders/PSX-Unlit.shader.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PSXShaderKit/Shaders/PSX-UnlitTransparent.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PSXShaderKit/Shaders/PSX-UnlitTransparent.shader.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PSXShaderKit/Shaders/PSX-UnlitTransparentCutout.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PSXShaderKit/Shaders/PSX-UnlitTransparentCutout.shader.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PSXShaderKit/Shaders/PSX-Utils.cginc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PSXShaderKit/Shaders/PSX-Utils.cginc.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PSXShaderKit/Shaders/PSX-VertexLit.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PSXShaderKit/Shaders/PSX-VertexLit.shader.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PSXShaderKit/Shaders/PSX-VertexLitTransparent.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PSXShaderKit/Shaders/PSX-VertexLitTransparent.shader.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PSXShaderKit/Shaders/PSX-VertexLitTransparentCutout.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PSXShaderKit/Shaders/PSX-VertexLitTransparentCutout.shader.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Rendering/Lighting Settings.lighting" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Rendering/Lighting Settings.lighting.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/TestScene.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/TestScene.unity.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Train/LightingData.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Train/LightingData.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Train/ReflectionProbe-0.exr" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Train/ReflectionProbe-0.exr.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Teleporter.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Teleporter.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/BurstAotSettings_StandaloneWindows.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VR Sandbox.sln.DotSettings" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.VR Sandbox/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.VR Sandbox/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Exterior.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Exterior.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Game Controller.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Game Controller.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Buildings/Building.000.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Buildings/Building.000.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Hand.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Hand.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Interior.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Interior.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Player Camera.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Player Camera.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Reticle.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Reticle.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Seat Indicator.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Seat Indicator.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Rendering/URP/URP.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Rendering/URP/URP.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/Train.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Train.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Train/Global Volume Profile.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Train/Global Volume Profile.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scripts/DebugUI/DebugFrame.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/DebugUI/DebugFrame.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/GameController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/GameController.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/State/Behaviors/BehaviorEnterTheTrain.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/State/Behaviors/BehaviorEnterTheTrain.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/State/Behaviors/BehaviorGameOver.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/State/Behaviors/BehaviorGameOver.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/State/Behaviors/BehaviorIgnoreHands.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/State/Behaviors/BehaviorIgnoreHands.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/State/Behaviors/BehaviorLookAtHands.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/State/Behaviors/BehaviorLookAtHands.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/State/Behaviors/BehaviorManMovesToo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/State/Behaviors/BehaviorManMovesToo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/State/Behaviors/BehaviorManSitDown.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/State/Behaviors/BehaviorManSitDown.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/State/Behaviors/BehaviorManStandsClose.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/State/Behaviors/BehaviorManStandsClose.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/State/Behaviors/BehaviorSitsDown.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/State/Behaviors/BehaviorSitsDown.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/State/Behaviors/BehaviorTimeUp.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/State/Behaviors/BehaviorTimeUp.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/State/Behaviors/BehaviorWin.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/State/Behaviors/BehaviorWin.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/State/Behaviors/IStateBehavior.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/State/Behaviors/IStateBehavior.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/State/Behaviors/StateBehavior.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/State/Behaviors/StateBehavior.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/State/GameState.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/State/GameState.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/State/StateMachine.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/State/StateMachine.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/PlayerController.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/PlayerController.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/PlayerReticle.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/PlayerReticle.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/AudioManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/AudioManager.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/PackageManagerSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/PackageManagerSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/QualitySettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/QualitySettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

@@ -1,18 +1,9 @@
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 
-public class PlayerReticle : MonoBehaviour
-{
-    // Start is called before the first frame update
-    void Start()
-    {
-        
-    }
+public class PlayerReticle : MonoBehaviour {
+	[SerializeField] private Shapes.Disc reticle;
 
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
+	public void FillReticle(float t) {
+		reticle.AngRadiansEnd = t * 2f * Mathf.PI;
+	}
 }
