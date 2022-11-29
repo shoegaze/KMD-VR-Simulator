@@ -8,8 +8,8 @@ namespace State.Behaviors {
 			Debug.Log($"before -> {from}");
 		}
 		
-		public override void OnAfterTransition(GameState from) {
-			Debug.Log($"after -> {from}");
+		public override void OnAfterTransition(GameState to) {
+			Debug.Log($"after -> {to}");
 		}
 		
 		public override void OnUpdate(GameController game, StateMachine stateMachine) {

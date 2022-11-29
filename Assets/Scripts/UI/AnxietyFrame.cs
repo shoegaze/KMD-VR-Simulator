@@ -12,7 +12,9 @@ namespace UI {
 		}
 
 		protected void OnGUI() {
+			// TODO: Change color etc. depending on anxiety level
 			var anxiety = game.Anxiety;
+			
 			valueLabel.text = $"{anxiety}";
 		}
 	}
